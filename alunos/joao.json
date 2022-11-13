@@ -1,0 +1,19 @@
+{
+  "nome":"João Pedro",
+  "sobrenome":"Lemos",
+  "idade":24,
+  "serie":"Terceiro Ano",
+  "nota":
+          {
+          "matematica":7,
+          "portugues":8,
+          "fisica":5,
+          "quimica":6
+  }
+}
+
+
+
+
+
+
