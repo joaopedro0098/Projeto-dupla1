@@ -1,0 +1,13 @@
+{
+    "nome":"Gustavo",
+    "sobrenome":"Duque Léo",
+    "idade":23,
+    "serie":"Terceiro Ano",
+    "nota":
+            {
+            "matematica":5,
+            "portugues":7.5,
+            "fisica":5,
+            "quimica":8
+    }
+}
